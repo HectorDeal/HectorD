@@ -5,7 +5,7 @@
 <h4 align="center">Apprenant à La Manu</h4>
 
 ## 🌐 Find me on the networks :
-<a href=”https://www.linkedin.com/in/hector-deal”><img align=”left” src=”https://raw.githubusercontent.com/HectorDeal/HectorD/master/assets/img/3536505.png” alt=”icon” largeur ="21px"></a>
+<a href=”https://www.linkedin.com/in/hector-deal”><img align=”left” src=”https://github.com/HectorDeal/HectorD/blob/master/assets/img/3536505.png” alt=”icon” largeur ="21px"></a>
 
 
 ## 
