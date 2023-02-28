@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>HectorD</h1>
-<h3>Apprenant à La Manu</h3>
+<h3>Apprenant à La Manu....readme en cours de création</h3>
 </div>
 
 ## 🌐 Find me on the networks :
