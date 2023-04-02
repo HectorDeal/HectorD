@@ -1,4 +1,4 @@
-![bannergithub](https://user-images.githubusercontent.com/94568519/221982507-fbcde936-47a1-47e2-9c4c-97fc55fcb7be.png)
+![bannergithub](https://user-images.githubusercontent.com/94568519/229377054-9a33c67e-e091-46fc-8602-c6f5f874f6dd.png)
 
 <div align="center">
 <h1>HectorD</h1>
