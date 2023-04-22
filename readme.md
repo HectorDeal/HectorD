@@ -1,12 +1,11 @@
 <div align="center">
-<h1>HectorD</h1>
+<h1>Over&Dose.dll</h1>
 <h3>Learning to La Manu in France</h3>
 </div>
 
 ## 🌐 Find me on the networks :
 
-<a href="https://www.linkedin.com/in/hector-deal"> <img align="left" src="https://user-images.githubusercontent.com/94568519/222081691-5b6df648-2e9e-4b08-9380-88945b0644a4.png" alt=”Linkedin-HectorD” height ="30px" width ="30px"/></a>
-<a href="421662362806910978"> <img align="left" src="https://user-images.githubusercontent.com/94568519/222078163-110c4a67-9bcd-48df-8822-e65f8edf868d.png" alt=”Discord-HectorD” height ="30px" width ="30px"/></a>
+<a href="Over&Dose.dll#7499"> <img align="left" src="https://user-images.githubusercontent.com/94568519/222078163-110c4a67-9bcd-48df-8822-e65f8edf868d.png" alt=”Discord” height ="30px" width ="30px"/></a>
 </br></br>
 - 💬 If you have any questions or comments, do not hesitate to contact me!
 
