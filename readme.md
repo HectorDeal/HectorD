@@ -55,4 +55,4 @@ PAO & UIUX DESIGN =>
 <a href=""> <img align="left" src="https://user-images.githubusercontent.com/94568519/222077655-e00d9e21-139c-4046-8d9d-f0bc337b74c0.png" alt=”adobe” height ="50px" width ="50px"/></a>
 </br></br></br>
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorDeal&layout=compact)](https://github.com/HectorDeal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverDosedll&layout=compact)](https://github.com/OverDosedll)
