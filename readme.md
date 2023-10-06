@@ -25,11 +25,15 @@ DEVELOPMENT =>
 </br></br>
 - Framework :
 
+<a href="https://fr.react.dev/"> <img align="left" src="https://fr.legacy.reactjs.org/logo-og.png" alt=”React” height ="50px" width ="50px"/></a>
+
 <a href="https://vuejs.org/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221996647-216957b7-5fff-464d-87e2-a9f5e46030e9.png" alt=”vuejs” height ="50px" width ="50px"/></a>
 
 <a href="https://getbootstrap.com/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221997148-9143e0d2-42ea-4360-a5de-f19906afdf52.png" alt=”bootstrap” height ="50px" width ="50px"/></a>
 </br></br>
 - CMS :
+
+<a href="https://www.odoo.com"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/odoo.png" alt=”wp” height ="50px" width ="50px"/></a>
 
 <a href="https://wordpress.com/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221997798-9d82aae0-da9b-4860-8e84-b1de56e67df7.png" alt=”wp” height ="50px" width ="50px"/></a>
 
