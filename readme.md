@@ -25,6 +25,8 @@ DEVELOPMENT =>
 </br></br>
 - Framework :
 
+<a href="https://elementor.com/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/elementor.png" alt=”Elementor” height ="50px" width ="50px"/></a>
+
 <a href="https://fr.react.dev/"> <img align="left" src="https://fr.legacy.reactjs.org/logo-og.png" alt=”React” height ="50px" width ="50px"/></a>
 
 <a href="https://vuejs.org/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221996647-216957b7-5fff-464d-87e2-a9f5e46030e9.png" alt=”vuejs” height ="50px" width ="50px"/></a>
@@ -37,26 +39,26 @@ DEVELOPMENT =>
 
 <a href="https://wordpress.com/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221997798-9d82aae0-da9b-4860-8e84-b1de56e67df7.png" alt=”wp” height ="50px" width ="50px"/></a>
 
-<a href="https://bubble.io/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221998062-f21f7453-95a2-49d5-9b9d-5259da386db5.png" alt=”bubble.io” height ="50px" width ="50px"/></a>
+<a href="https://bubble.io/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/bubbleio.png" alt=”bubble.io” height ="50px" width ="50px"/></a>
 </br></br></br>
 
 PAO & UIUX DESIGN =>
-- Suite Adobe :
+- Suite :
 
-<a href="https://www.adobe.com/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/222075665-1e920a0e-2653-4526-bc9b-ecc86a9c0a7c.png" alt=”adobe” height ="50px" width ="50px"/></a>
+<a href="https://www.adobe.com/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/ai.png" alt=”adobe” height ="50px" width ="50px"/></a>
 
-<a href="https://www.adobe.com/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/222075954-67e49600-ea15-4bf5-b6c7-40ae675d5c48.png" alt=”adobe” height ="50px" width ="50px"/></a>
+<a href="https://www.adobe.com/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/photoshop.png" alt=”adobe” height ="50px" width ="50px"/></a>
 
-<a href="https://www.adobe.com/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/222076131-1a1386d5-0830-41b5-9969-bcbc4bd3e4a6.png" alt=”adobe” height ="50px" width ="50px"/></a>
+<a href="https://www.adobe.com/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/pr.png" alt=”adobe” height ="50px" width ="50px"/></a>
 
-<a href="https://www.adobe.com/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/222076282-d47d7c7f-b5e2-417f-a043-178a438d781a.png" alt=”adobe” height ="50px" width ="50px"/></a>
+<a href="https://www.adobe.com/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/xd.png" alt=”adobe” height ="50px" width ="50px"/></a>
 
-<a href="https://www.adobe.com/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/222076488-231c08f9-11e2-4f61-a276-93dd6d7cba86.png" alt=”adobe” height ="50px" width ="50px"/></a>
+<a href="https://www.adobe.com/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/id.png" alt=”adobe” height ="50px" width ="50px"/></a>
 
 </br></br>
 - Wireframe & Prototype :
 
-<a href=""> <img align="left" src="https://user-images.githubusercontent.com/94568519/222077655-e00d9e21-139c-4046-8d9d-f0bc337b74c0.png" alt=”adobe” height ="50px" width ="50px"/></a>
+<a href=""> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/figma.png" alt=”adobe” height ="50px" width ="50px"/></a>
 </br></br></br>
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectordll&layout=compact)](https://github.com/hectordll)
