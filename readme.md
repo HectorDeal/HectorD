@@ -13,15 +13,15 @@
 DEVELOPMENT =>
 - Language :
 
-<a href="https://developer.mozilla.org/fr/docs/Web/HTML"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221991663-fe433996-ea84-48e9-abc8-4f35494c1dda.png" alt=”html” height ="50px" width ="50px"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/html5.png" alt=”html” height ="50px" width ="50px"/></a>
 
-<a href="https://developer.mozilla.org/fr/docs/Web/CSS/@document"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221993264-d654f346-09aa-4de5-a428-7bcea6a58cf0.png" alt=”css” height ="50px" width ="50px"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS/@document"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/css3.png" alt=”css” height ="50px" width ="50px"/></a>
 
-<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221993480-fd11bd5b-df23-40bb-8bb4-3d5cc26c6eb8.png" alt=”javascript” height ="50px" width ="50px"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/javascript.png" alt=”javascript” height ="50px" width ="50px"/></a>
 
-<a href="https://docs.python.org/3/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221993879-fa4e229f-0284-4f5a-b4a5-60423f4ee2c0.png" alt=”python” height ="50px" width ="50px"/></a>
+<a href="https://docs.python.org/3/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/python.png" alt=”python” height ="50px" width ="50px"/></a>
 
-<a href="https://www.php.net/docs.php"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221994191-7c8b1477-6ac9-48f5-8dd7-2192fb034bcc.png" alt=”php” height ="50px" width ="50px"/></a>
+<a href="https://www.php.net/docs.php"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/php.png" alt=”php” height ="50px" width ="50px"/></a>
 </br></br>
 - Framework :
 
@@ -37,7 +37,7 @@ DEVELOPMENT =>
 
 <a href="https://www.odoo.com"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/odoo.png" alt=”wp” height ="50px" width ="50px"/></a>
 
-<a href="https://wordpress.com/"> <img align="left" src="https://user-images.githubusercontent.com/94568519/221997798-9d82aae0-da9b-4860-8e84-b1de56e67df7.png" alt=”wp” height ="50px" width ="50px"/></a>
+<a href="https://wordpress.com/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/wordpress.png" alt=”wp” height ="50px" width ="50px"/></a>
 
 <a href="https://bubble.io/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/bubbleio.png" alt=”bubble.io” height ="50px" width ="50px"/></a>
 </br></br></br>
