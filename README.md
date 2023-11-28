@@ -1,1 +1,1 @@
-<iframe src="https://www.google.com" width="auto" height="auto"></iframe>
+[Visitez le site Web de Google](https://www.google.com "Google")
