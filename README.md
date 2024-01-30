@@ -27,7 +27,7 @@ DEVELOPMENT =>
 
 <a href="https://elementor.com/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/elementor.png" alt=”Elementor” height ="50px" width ="50px"/></a>
 
-<a href="https://fr.react.dev/"> <img align="left" src="https://fr.legacy.reactjs.org/logo-og.png" alt=”React” height ="50px" width ="50px"/></a>
+<a href="https://fr.react.dev/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/react.png" alt=”React” height ="50px" width ="50px"/></a>
 
 <a href="https://vuejs.org/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/vuejs.png" alt=”vuejs” height ="50px" width ="50px"/></a>
 
