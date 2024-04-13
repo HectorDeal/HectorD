@@ -6,9 +6,7 @@
 </br></br>
 - 💬 If you have any questions or comments, do not hesitate to contact me!
 
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectordll&layout=compact)](https://github.com/hectordll)
-</div>
 
 
 [![Website](https://github.com/hectordll/CV-Numerique/blob/master/assets/img/exempleportfolio.png)](https://hectordll.github.io/CV-Numerique/)
