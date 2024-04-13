@@ -3,9 +3,6 @@
 <h3>Learning to La Manu in France</h3>
 </div>
 
-## 🌐 Find me on the networks :
-
-<a href="Over&Dose.dll#7499"> <img align="left" src="https://user-images.githubusercontent.com/94568519/222078163-110c4a67-9bcd-48df-8822-e65f8edf868d.png" alt=”Discord” height ="30px" width ="30px"/></a>
 </br></br>
 - 💬 If you have any questions or comments, do not hesitate to contact me!
 
